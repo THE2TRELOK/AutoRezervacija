@@ -12,7 +12,7 @@ function App() {
         <div className="window">
           <p>Laipni lūdzam!</p>
           <div className="box">
-            <a>Ielogoties</a>
+            <a>Ielogoties123</a>
             <a>Reģistrēties</a>
           </div>
           <a className="elem">Viesis</a>
