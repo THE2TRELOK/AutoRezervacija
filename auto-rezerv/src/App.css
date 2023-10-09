@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap");
+
+.header {
+  background-color: brown;
+  color: black;
+  height: 60px;
+  font-family: "PT Sans Caption", sans-serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  display: flex;
+  justify-content: space-between;
+  float: left;
+  gap: 15px;
+  padding: 0px 10px;
+  align-self: flex-start;
+}
+
+.icon p {
+  font-size: 25px;
+}
+
+.Car {
+  background-color: brown;
+  padding: 10px 10px;
+}
+
+.right {
+  display: flex;
+  float: right;
+  gap: 20px;
+  font-size: 20px;
+  padding: 15px 10px;
+}
+.Ico {
+  height: 45px;
+  width: 45px;
+}
+
+.background {
+  background-color: lightgrey;
+}
+
+.registr {
+  display: flex;
+  border: 5px;
+  height: 903px;
+  align-items: center;
+  justify-content: center;
+}
+
+.window {
+  width: 500px;
+  height: 200px;
+  background-color: white;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.window p {
+  display: flex;
+  justify-content: center;
+  font-family: "PT Sans Caption", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.window a {
+  font-family: "PT Sans Caption", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 10px 20px;
+  text-decoration: underline;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.elem {
+  display: flex;
+  justify-content: center;
+}
